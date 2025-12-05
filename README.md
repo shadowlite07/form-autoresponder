@@ -73,7 +73,7 @@ Perfect for:
 
 Below is the visual flow of the automation:
 
-![Flow Diagram](https://raw.githubusercontent.com/USERNAME/REPO/main/71a5784f-0271-4749-a1a9-83c7223407d7.png)
+![Flow Diagram](https://raw.githubusercontent.com/shadowlite07/form-autoresponder/main/71a5784f-0271-4749-a1a9-83c7223407d7.png)
 
 ---
 
@@ -98,13 +98,13 @@ I handled:
 
 End-to-end project execution.
 
----
+<!-- ---
 
 ## 🧾 Example: Email Preview
 
 ![Email Preview](https://raw.githubusercontent.com/USERNAME/REPO/main/IMAGE_NAME.png)
 
-(Add screenshots if you have them)
+(Add screenshots if you have them) -->
 
 ---
 
